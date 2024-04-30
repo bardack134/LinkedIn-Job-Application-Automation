@@ -16,6 +16,6 @@ The LinkedIn bot automates the process of searching for and saving jobs on the L
 #### Results and Achievements
 - Automation of the job search and application process on LinkedIn.
 - Increased efficiency by eliminating the need for manual job searching.
-- Enhanced Python programming skills through the development and execution of this code.
-- Streamlined the process of saving jobs on LinkedIn, leading to increased efficiency in job search activities.
+- Improve Python programming skills through the development and execution of this code.
+- make the process of saving jobs on LinkedIn easier, leading to increased efficiency in job search activities.
 - Improved automation capabilities, allowing for the rapid and effortless saving of multiple job opportunities.
